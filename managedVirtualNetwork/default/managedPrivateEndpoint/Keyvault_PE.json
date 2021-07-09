@@ -1,0 +1,10 @@
+{
+	"name": "Keyvault_PE",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/56a4ad0d-f857-4ef4-85ec-1d89635b428c/resourceGroups/synapserg/providers/Microsoft.KeyVault/vaults/test-kv008",
+		"groupId": "vault",
+		"fqdns": [
+			"test-kv008.vaultcore.azure.net"
+		]
+	}
+}

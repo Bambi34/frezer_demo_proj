@@ -1,0 +1,10 @@
+{
+	"name": "ADLS_108",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/56a4ad0d-f857-4ef4-85ec-1d89635b428c/resourceGroups/synapserg/providers/Microsoft.Storage/storageAccounts/synapsestrga",
+		"groupId": "dfs",
+		"fqdns": [
+			"synapsestrga.dfs.core.windows.net"
+		]
+	}
+}
