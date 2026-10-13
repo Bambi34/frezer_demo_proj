@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--cmk-ws-002",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/56a4ad0d-f857-4ef4-85ec-1d89635b428c/resourceGroups/synapserg/providers/Microsoft.Synapse/workspaces/cmk-ws-002",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"cmk-ws-002-ondemand.375b397e-29cd-4ae0-9cba-b23466d24ec6.sql.azuresynapse.net"
+		]
+	}
+}

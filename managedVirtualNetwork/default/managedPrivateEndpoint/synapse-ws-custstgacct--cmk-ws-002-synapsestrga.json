@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--cmk-ws-002-synapsestrga",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/56a4ad0d-f857-4ef4-85ec-1d89635b428c/resourceGroups/synapserg/providers/Microsoft.Storage/storageAccounts/synapsestrga",
+		"groupId": "dfs"
+	}
+}
